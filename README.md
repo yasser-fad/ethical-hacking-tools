@@ -17,12 +17,20 @@ tools very well and start learning python.
 
 # THE DEFENTIONS OF THESE TOOLS 
 1- MAC: IS a MAC spoofing tool for changing the Media Access Control (MAC) address of a network interface on a networked device.
+
+
 2- nscan tool: It is a network scanning tool which is used for hacking information gathering method, if you are connected to a network and the target device
 In the same network, a network scan must be done to discover all the devices' IP and mac addresses.
+
+
 3-ARP_spoofer:To redirect the flow of packets to the hacker, it will allow the hacker to read, modify and delete the reason for this attack is that ARP
 Unsafe
+
+
 how it work :Send 2 ARP response to the gateway and the other to the target machine, the hacker sends to the victim that he is the gateway and for the gateway.
 He's the victim by changing mac addresses, so the hacker becomes a man in the middle.
 after we having the packet flow to our pc using arp spoofer we should start reading the packets.
-Packetsniffer:
+
+
+4- Packetsniffer:
 Capture of data flowing through an interface, allowing data to be sniffed and read.
